@@ -92,7 +92,7 @@ function checkWinner() {
   } else {
     changePlayer();
   }
-}alert('Congradulations😍😍')
+}alert('Congratulations😍😍')
 
 //! Restarting the Game
 
